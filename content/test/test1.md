@@ -1,5 +1,7 @@
 ---
 title: Welcome to Quartz this is satya 222
+tags:
+    - satya
 ---
 
 This is a blank Quartz installation.
