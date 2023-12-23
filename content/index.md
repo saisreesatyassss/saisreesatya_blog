@@ -30,6 +30,7 @@ Embark on an intellectual journey through the captivating world of Artificial In
 - [[Open-Source]]
 - [[U-Net]]
 - [[SDXL-Turbo]]
+- [[AnimateDiff]]
 
 <!-- - 📱 **Mobile App Alchemy:** Join me in crafting seamless mobile experiences, exploring the magic behind app development.
 
