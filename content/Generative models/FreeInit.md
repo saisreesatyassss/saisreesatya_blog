@@ -149,3 +149,11 @@ The default inference settings of each model were first adopted for a single inf
     - All FreeInit metrics for quantitative comparisons are computed at the 4th iteration, allowing a comprehensive assessment of the models' performance.
 
 This evaluation process ensures a thorough analysis of the temporal consistency and visual similarity of the generated video frames across the three diffusion models under consideration.
+
+
+## Paper Link
+[Website](https://tianxingwu.github.io/pages/FreeInit/)
+[GitHub](https://github.com/TianxingWu/FreeInit)
+[Paper](https://arxiv.org/abs/2312.07537)
+[Youtube](https://youtu.be/lS5IYbAqriI)
+[Huggin Face](https://huggingface.co/spaces/TianxingWu/FreeInit)
