@@ -153,7 +153,19 @@ This evaluation process ensures a thorough analysis of the temporal consistency 
 
 ## Paper Link
 [Website](https://tianxingwu.github.io/pages/FreeInit/)
+
+
+
 [GitHub](https://github.com/TianxingWu/FreeInit)
+
+
+
 [Paper](https://arxiv.org/abs/2312.07537)
+
+
+
 [Youtube](https://youtu.be/lS5IYbAqriI)
+
+
+
 [Huggin Face](https://huggingface.co/spaces/TianxingWu/FreeInit)
