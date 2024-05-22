@@ -36,9 +36,9 @@ Snowpark ML Operations (MLOps), featuring the [Snowpark ML Model Registry](https
 
 ## Product and Technology
 ### AI & ML
-#### Snowflake Arctic
-![[snowflake3.png]]
+#### Snowflake Arctic 
 
+![[snowflake3.jpg]]
 ## How to Build Your Project Using Snowflake Arctic Model
 
 ### Step 1: Setting Up the Environment
@@ -119,6 +119,9 @@ Snowpark ML Operations (MLOps), featuring the [Snowpark ML Model Registry](https
 - Thoroughly test all features, including chat functionality, persona data handling, multilingual support, and text-to-speech conversion.
 - Ensure the app performs well with various inputs and scenarios.
 
+#### Important Links:
+#### deployment link:- https://personaai.streamlit.app/
+#### Code:-https://github.com/saisreesatyassss/snowflake-arctic-chatbot
 
 
 
