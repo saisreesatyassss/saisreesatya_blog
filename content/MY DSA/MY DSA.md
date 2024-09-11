@@ -24,7 +24,7 @@ Data Structures and Algorithms are crucial for:
 Here is a list of common data structures:
 
 
-[[Largest|Array]]
+[[Largest in array|Array]]
 
 
 
