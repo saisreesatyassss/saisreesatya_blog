@@ -24,12 +24,15 @@ Data Structures and Algorithms are crucial for:
 Here is a list of common data structures:
 
 
-[[Largest in array|Array]]
-
 
 
 
 1. **Array**
+[[Largest in array|Array1]]
+[[Second Largest in Array|Array2]]
+[[Check if Array is Sorted|Array3]]
+[[Remove Duplicates from Array|Array4]]
+
 2. **Linked List**
 3. **Stack**
 4. **Queue**
