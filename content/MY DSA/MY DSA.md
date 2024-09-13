@@ -30,10 +30,10 @@ Here is a list of common data structures:
 1. **Array**
 
 
-[[Largest in array|Largest in array]] /n
-[[Second Largest in Array|Second Largest in Array]]
-[[Check if Array is Sorted|Check if Array is Sorted]]
-[[Remove Duplicates from Array|Remove Duplicates from Array]]
+    -[[Largest in array|Largest in array]]
+    -[[Second Largest in Array|Second Largest in Array]]
+    -[[Check if Array is Sorted|Check if Array is Sorted]]
+    -[[Remove Duplicates from Array|Remove Duplicates from Array]]
 
 2. **Linked List**
 3. **Stack**
