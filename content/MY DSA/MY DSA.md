@@ -31,8 +31,14 @@ Here is a list of common data structures:
 
 
     -[[Largest in array|Largest in array]]
+
+
     -[[Second Largest in Array|Second Largest in Array]]
+
+
     -[[Check if Array is Sorted|Check if Array is Sorted]]
+
+    
     -[[Remove Duplicates from Array|Remove Duplicates from Array]]
 
 2. **Linked List**
