@@ -34,6 +34,7 @@ Embark on an intellectual journey through the captivating world of Artificial In
 - [[FreeInit]]
 - [[TinyTech Sorcery]]
 - [[MY DSA]]
+- [[MY Interview]]
 
 <!-- - 📱 **Mobile App Alchemy:** Join me in crafting seamless mobile experiences, exploring the magic behind app development.
 
