@@ -570,6 +570,11 @@ Keep coding, keep learning, and most importantly - don't be afraid to make mista
 
 ---
 
+💼 You can check out my job preparation journey     -[[MY Interview|MY Interview]].
+
+
+
+
 *Happy coding! 🎉*
  
 
